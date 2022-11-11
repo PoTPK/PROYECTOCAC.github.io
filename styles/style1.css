@@ -1,0 +1,272 @@
+html,body {
+    letter-spacing: 2px;
+    max-height:100%;
+    max-width: 100%;
+    font-family: "Noto Sans";
+    background: #ffffff;
+    
+}
+#p-start
+{
+    font-size: 100vw;
+}
+
+.CONF
+{
+    font-size: large;
+}
+.codoacodo
+{
+    margin: 5px;
+    margin-inline-start: 6%;
+    letter-spacing: 2px;
+}
+
+.barra
+{
+    margin-inline-start: 120px;
+    letter-spacing: 2px;
+}
+
+#conocemas
+{
+    font-size: small;
+}
+
+.sub-t
+{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding:0px;
+    margin: 20px;
+}
+
+
+#TEXTOPRIMERACARTA{
+    display:inline-flexbox;
+    margin: 0%;
+    margin-block-start: 40%;
+    margin-bottom: 50%;
+    margin-top: 30%;
+    margin-left: 46%;
+    align-items: right;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    color:#faf3fd;
+    float: center;
+    font-size: 5mm;
+    letter-spacing: 1px;
+    
+}
+#CARDVIAJE
+{
+    align-items: center;
+    justify-content:center;
+    margin:8%;
+    max-width: 100%;
+    letter-spacing: 2px;
+
+}
+
+.card-group
+{
+    margin-block-start: 3%;
+    padding-right: 12%;
+    padding-left: 12%;
+    flex-wrap: wrap;
+    letter-spacing: 2px;
+}
+
+.rowRow
+{
+    background-color: rgb(58, 57, 57);
+    color:#faf3fd;
+    letter-spacing: 2px;
+}
+
+
+
+
+#select
+{margin-block: 2em;
+flex-wrap: nowrap;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(94, 88, 88);
+    letter-spacing: 2px;
+}
+        
+li {
+    float: right;
+}
+  
+li a, .dropbtn {
+    display:inline-block;
+    color: rgb(153, 146, 146);
+    text-align: center;
+    padding: 8px 8px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+li a:hover, .dropbtn {
+    color: #faf3fd;
+    letter-spacing: 2px;
+}
+
+
+
+
+footer menu {
+    position: fixed;
+    height: 80%; 
+    padding:0px;
+    background-color:azure;
+    text-align: right;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    letter-spacing: 2px;
+
+}
+.subtitulo
+{
+   text-align: center;
+   padding: 1px;
+   letter-spacing: 2px;
+}
+
+.mb {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin: 10em;
+    padding: 10em 10em 10em;
+    letter-spacing: 2px;
+}
+
+.conviertete
+{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: x-large;
+}
+.ORADOR
+{
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 2px;
+}
+.card-text
+{font-size: small;}
+
+
+#SEL-ECT
+{
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 1em;
+    margin: 2vw;
+    border-radius:none;
+
+
+}
+
+#menuinferior
+{
+    background-color: #261f46 !important;
+    color: #ffffff;
+    margin: 40px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    align-items: center;
+    max-width: 100%;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    letter-spacing: 2px;
+    
+}
+
+
+
+#cantidadTicket
+{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    display:grid;
+
+}
+
+
+
+#FormCantCat
+{
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 1px;
+    width: 100%;
+
+}
+
+#formularioTP
+{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    max-width: 100rem;
+}
+
+#cantTotal
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 20vw;
+    display:grid;
+    text-align:start;
+    justify-content: flex-start;
+}
+
+#botonBorrar
+{
+    align-items: center;
+    justify-content: center;
+    padding-inline: 15vw;
+    border-radius: 0,5vw;
+    background-color:rgb(73, 204, 73);
+    margin-inline-start: 17vw;
+    border: none;
+}
+
+#botonResumen
+{
+    align-items: center;
+    justify-content: center;
+    padding-inline: 12vw;
+    border-radius: 0,5vw;
+    background-color:rgb(73, 204, 73);    
+    border: none;
+    margin-left: 1rem;
+}
+
+
+#venta
+{
+    font-size: 1vw;
+}
+#ticket
+{
+    font-size:large;
+    font-size: 2vw;
+    margin-bottom: 0vw;
+};
+
+
